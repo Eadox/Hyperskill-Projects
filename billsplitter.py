@@ -1,4 +1,6 @@
 from random import choice
+
+
 party_dict = {}
 party_size = int(input("Enter the number of friends joining (including you):\n"))
 
